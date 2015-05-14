@@ -70,6 +70,8 @@ theme: landscape
 
 # Deployment# D
 ## Docs: http://hexo.io/docs/deployment.html
+## Docs: http://hexo.io/docs/deployment.html
 deploy:
+  type: git 
   repo: git@github.com:tercanfurkan/tercanfurkan.github.io.git
   branch: master
