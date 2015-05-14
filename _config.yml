@@ -4,8 +4,8 @@
 
 # Site
 title: Ömer Furkan Tercan
-subtitle: Full stack developer
-description: Android / NodeJS / WebRTC enthusiast. CSE M.Sc. candidate @AaltoUniversity. Full stack developer @tellybeaners.
+subtitle: Android / NodeJS / WebRTC enthusiast. CSE M.Sc. candidate @AaltoUniversity. Full stack developer @tellybeaners.
+description: 
 author: Ömer Furkan Tercan
 email: tercanfurkan@gmail.com
 language: en-GB
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://tercanfurkan.com/
+url: http://tercanfurkan.github.io/
 root: /
 permalink: :year/:month/:title/
 
