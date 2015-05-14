@@ -3,19 +3,23 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: Ömer Furkan Tercan
+subtitle: Full stack developer
+description: Android / NodeJS / WebRTC enthusiast. CSE M.Sc. candidate @AaltoUniversity. Full stack developer @tellybeaners.
+author: Ömer Furkan Tercan
+email: tercanfurkan@gmail.com
+language: en-GB
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://tercanfurkan.com/
 root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink: :year/:month/:title/
+
+# Disqus
+disqus_shortname: communitydeveloper
+
 
 # Directory
 source_dir: source
@@ -64,7 +68,8 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: landscape
 
-# Deployment
+# Deployment# D
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  repo: git@github.com:tercanfurkan/tercanfurkan.github.io.git
+  branch: master
